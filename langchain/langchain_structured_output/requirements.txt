@@ -1,0 +1,9 @@
+# Langchain core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+pydantic

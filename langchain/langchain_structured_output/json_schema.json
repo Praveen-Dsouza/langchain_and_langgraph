@@ -1,0 +1,19 @@
+{
+    "title": "student",
+    "description": "schema about student",
+    "type": "object",
+    "properties": {
+        "name":"string",
+        "age": "integer",
+        "email": {
+            "type": "string",
+            "format": "email"
+        },
+        "cgpa": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 10
+        }
+    },
+    "required": ["name", "cgpa"]
+}
