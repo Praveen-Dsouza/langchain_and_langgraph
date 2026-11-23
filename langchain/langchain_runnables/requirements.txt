@@ -1,0 +1,21 @@
+
+# Langchain core
+langchain
+langchain-core
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Text Splitting
+langchain-text-splitters
+
+# Vector Database
+faiss-cpu
+
+# Environment Variables Management
+python-dotenv
