@@ -1,0 +1,13 @@
+# Langchain core
+langchain
+langchain-core
+langchain-community
+pypdf
+bs4
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Environment Variables Management
+python-dotenv
